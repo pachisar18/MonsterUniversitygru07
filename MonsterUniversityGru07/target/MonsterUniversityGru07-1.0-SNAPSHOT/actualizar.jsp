@@ -1,7 +1,7 @@
 <%-- 
     Document   : actualizar.jsp
     Created on : 18/09/2018, 0:04:31
-    Author     : enrique
+    Author     : ely
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
