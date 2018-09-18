@@ -1,7 +1,7 @@
 <%-- 
     Document   : insertar
     Created on : 17/09/2018, 23:54:28
-    Author     : enrique
+    Author     : enrique,ximena,elizabeth,patricia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
