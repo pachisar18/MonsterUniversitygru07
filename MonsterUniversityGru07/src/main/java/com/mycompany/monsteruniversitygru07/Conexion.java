@@ -7,7 +7,7 @@ package com.mycompany.monsteruniversitygru07;
 
 /**
  *
- * @author FERCALIT
+ * @author Grupo7
  */
 
 
