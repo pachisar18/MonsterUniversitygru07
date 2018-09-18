@@ -1,1 +1,7 @@
+com\mycompany\servlet\ServletLeer.class
+com\mycompany\servlet\ServletActualizar.class
 com\mycompany\monsteruniversitygru07\Conexion.class
+com\mycompany\bean\Persona.class
+com\mycompany\servlet\ServletIndex.class
+com\mycompany\servlet\ServletInsertar.class
+com\mycompany\servlet\ServletEliminar.class
