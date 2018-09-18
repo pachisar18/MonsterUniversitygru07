@@ -7,7 +7,7 @@ package com.mycompany.monsteruniversitygru07;
 
 /**
  *
- * @author Enrique
+ * @authores Enrique,Pachi, Ely, Xime.
  */
 
 
