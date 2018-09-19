@@ -14,7 +14,7 @@
     <body>
         <h1>Leer</h1>
         <ul>
-        	<li><a href="/appwebcrud/ServletIndex">Ir a inicio</a></li>
+        	<li><a href="/MonsterUniversityGru07/ServletIndex">Ir a inicio</a></li>
         </ul>
         <table border="1">
         	<thead>
@@ -48,12 +48,12 @@
     <script>
     	function eliminar(id)
     	{
-    		window.location.href="/appwebcrud/ServletEliminar?id="+id;
+    		window.location.href="/MonsterUniversityGru07/ServletEliminar?id="+id;
     	}
     	
     	function editar(id)
     	{
-    		window.location.href="/appwebcrud/ServletActualizar?id="+id;
+    		window.location.href="/MonsterUniversityGru07/ServletActualizar?id="+id;
     	}
     </script>
 </html>

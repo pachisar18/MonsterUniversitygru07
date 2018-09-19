@@ -12,6 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Eliminar</h1>
+        <h1>La persona fue eliminada</h1>
+        <ul>
+        	<li><a href="/MonsterUniversity.jsp/ServletIndex">Ir a inicio</a></li>
+        </ul>
     </body>
 </html>
